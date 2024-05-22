@@ -1,3 +1,4 @@
+# Write a python program to implement insertion sort and merge sort using lists 
 def insertion_sort(arr,n): 
     for i in range(1,n): 
         key = arr[i]
