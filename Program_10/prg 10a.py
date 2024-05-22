@@ -1,3 +1,4 @@
+# Write a python program to combine select pages from many PDFs
 from PyPDF2 import PdfWriter, PdfReader
 num1 = int(input("Enter page number from file1 "))
 num2 = int(input("Enter page number from file2 "))
