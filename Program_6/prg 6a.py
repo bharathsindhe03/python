@@ -1,3 +1,6 @@
+# Write a python program to accept a file name from the user and perform the following operations 
+# 1. Display the first N line of the file 
+# 2. Find the frequency of occurrence of the word accepted from the user in the file 
 fname = input("Enter the filename : ")
 infile = open(fname, "r")
 line = int(input("Enter the first N line "))
