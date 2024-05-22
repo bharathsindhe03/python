@@ -1,3 +1,4 @@
+# Write a Python program that accepts a sentence and find the number of words, digits, uppercase letters and lowercase letters.
 word = input("Enter a word : ")
 digi = ucase = lcase = wordcnt = 0
 wordcont=word.split()
