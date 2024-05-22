@@ -1,3 +1,4 @@
+# Write a python program to create a ZIP file of a particular folder which contains several files inside it. 
 import os
 import sys
 import pathlib
