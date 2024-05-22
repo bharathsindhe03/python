@@ -1,3 +1,4 @@
+# Write a Python program to find the string similarity between two given strings 
 def compare(s,p):
     count=0
     n=min(len(s),len(p))
