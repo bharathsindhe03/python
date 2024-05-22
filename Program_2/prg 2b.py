@@ -1,3 +1,4 @@
+# Develop a python program to convert binary to decimal, octal to hexadecimal using functions. 
 def Bin2dec(bin):
     l = len(oct)
     dec = 0
